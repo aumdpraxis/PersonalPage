@@ -1,2 +1,2 @@
 # PersonalPage
-personal webpage 
+una pagina de presentación personal
